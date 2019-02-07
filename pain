@@ -1,0 +1,8 @@
+matplotlib
+pillow
+
+git+git://github.com/uniquetrij/py-pipe@release
+git+git://github.com/uniquetrij/py-flask-movie@release
+git+git://github.com/uniquetrij/py-tensorflow-runner@release
+git+git://github.com/uniquetrij/py-data@release
+git+git://github.com/uniquetrij/py-object-detection@release

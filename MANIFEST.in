@@ -1,0 +1,1 @@
+include py_object_detection/tf_api/object_detection/data/*
