@@ -1,5 +1,5 @@
 matplotlib==3.0.2
-pillow==5.4.1
+pillow==8.1.1
 
 git+https://github.com/uniquetrij/py-pipe@v0.0.1
 git+https://github.com/uniquetrij/py-flask-movie@v0.0.1
